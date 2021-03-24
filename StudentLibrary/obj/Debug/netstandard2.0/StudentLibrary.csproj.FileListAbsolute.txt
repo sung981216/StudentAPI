@@ -1,0 +1,9 @@
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\bin\Debug\netstandard2.0\StudentLibrary.deps.json
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\bin\Debug\netstandard2.0\StudentLibrary.dll
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\bin\Debug\netstandard2.0\StudentLibrary.pdb
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.csprojAssemblyReference.cache
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.AssemblyInfoInputs.cache
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.AssemblyInfo.cs
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.dll
+C:\CST-TERM-4\4870\StudentProject\StudentLibrary\obj\Debug\netstandard2.0\StudentLibrary.pdb
